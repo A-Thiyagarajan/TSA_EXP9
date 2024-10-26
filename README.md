@@ -1,8 +1,8 @@
-#### Name: Thiyagarajan A
-#### Register No: 212222240110
-#### Date:
+### Name: Thiyagarajan A
+### Register No: 212222240110
+### Date:
 # EX.NO.09        A  project on Time series analysis on Google stock prediction using the ARIMA model
-### Date: 
+
 
 ### AIM:
 The aim of this project is to forecast Google stock prices using the ARIMA model and evaluate its accuracy through visualization and statistical metrics.
