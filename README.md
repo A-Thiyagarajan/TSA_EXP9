@@ -15,7 +15,7 @@ The aim of this project is to forecast Google stock prices using the ARIMA model
 6. Make predictions for future stock prices using the fitted model.
 7. Evaluate and visualize predictions against actual values using metrics like MAE and RMSE, and plot for comparison.
 ### PROGRAM:
-```pyhthon
+```python
 # Import necessary libraries
 import pandas as pd
 import numpy as np
